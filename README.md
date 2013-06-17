@@ -1,4 +1,4 @@
-citizenkane-color-scheme
+saulhudson-color-schemes
 ========================
 
-Sublime Text 2 color Scheme
+Sublime Text 2 color Schemes
