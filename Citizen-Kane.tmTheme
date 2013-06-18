@@ -5,7 +5,7 @@
 	<key>comment</key>
 	<string>Based on Tomorrow Night by http://chriskempson.com</string>
 	<key>name</key>
-	<string>Tomorrow Night Rich</string>
+	<string>Citizen Kane</string>
 	<key>settings</key>
 	<array>
 		<dict>
@@ -33,7 +33,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#5B8F7B</string>
+				<string>#739573</string><!--light green-->
 			</dict>
 		</dict>
 		<dict>
@@ -46,7 +46,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#A3AC3C</string>
+				<string>#A3AC3C</string><!--yellow/green-->
 			</dict>
 		</dict>
 		<dict>
@@ -57,7 +57,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FF8282</string>
+				<string>#FF8282</string><!--red-->
 			</dict>
 		</dict>
 		<dict>
@@ -70,7 +70,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#CED1CF</string>
+				<string>#CED1CF</string><!--light grey-->
 			</dict>
 		</dict>
 		<dict>
@@ -81,7 +81,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#32665F</string>
+				<string>#32665F</string><!--turquoise-->
 			</dict>
 		</dict>
 		<dict>
@@ -92,7 +92,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#5B8F7B</string>
+				<string>#5B8F7B</string><!--light turquoise-->
 			</dict>
 		</dict>
 		<dict>
@@ -105,7 +105,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#DE935F</string>
+				<string>#DE935F</string><!--orange-->
 			</dict>
 		</dict>
 		<dict>
@@ -118,7 +118,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#F0C674</string>
+				<string>#F0C674</string><!--light orange-->
 			</dict>
 		</dict>
 		<dict>
@@ -131,7 +131,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#B5BD68</string>				
+				<string>#B5BD68</string><!--light yellow-->				
 			</dict>
 		</dict>
 		<dict>
@@ -142,7 +142,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#C0CFCD</string>
+				<string>#C0CFCD</string><!--very light turquoise-->
 			</dict>
 		</dict>
 		<dict>
@@ -155,7 +155,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#81A2BE</string>
+				<string>#81A2BE</string><!--light blue-->
 			</dict>
 		</dict>
 		<dict>
@@ -168,7 +168,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#B294BB</string>
+				<string>#B294BB</string><!--light purple-->
 			</dict>
 		</dict>
 		<dict>
@@ -183,7 +183,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#CED2CF</string>
+				<string>#CED1CF</string><!--light grey-->
 			</dict>
 		</dict>
 		<dict>
@@ -196,7 +196,7 @@
 				<key>background</key>
 				<string>#82A3BF</string>
 				<key>foreground</key>
-				<string>#CED2CF</string>
+				<string>#CED1CF</string><!--light grey-->
 			</dict>
 		</dict>
 		<dict>
@@ -211,7 +211,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#CED2CF</string>
+				<string>#CED1CF</string><!--light grey-->
 			</dict>
 		</dict>
 		<dict>
