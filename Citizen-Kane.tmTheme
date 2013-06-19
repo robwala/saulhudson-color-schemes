@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>comment</key>
-	<string>Based on Tomorrow Night by http://chriskempson.com</string>
+	<string>Based on Tomorrow Night & Zenburn</string>
 	<key>name</key>
 	<string>Citizen Kane</string>
 	<key>settings</key>
