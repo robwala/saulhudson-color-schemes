@@ -12,11 +12,13 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#1A1A1A</string>
+				<!--<string>#1A1A1A</string>-->
+				<string>#CED1CF</string>
 				<key>caret</key>
 				<string>#AEAFAD</string>
 				<key>foreground</key>
-				<string>#C5C8C6</string>
+				<!--<string>#C5C8C6</string>-->
+				<string>#1A1A1A</string>
 				<key>invisibles</key>
 				<string>#4B4E55</string>
 				<key>lineHighlight</key>
@@ -70,7 +72,8 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#CED1CF</string><!--light grey-->
+				<!--<string>#CED1CF</string><!--light grey-->
+				<string>#1A1A1A</string>
 			</dict>
 		</dict>
 		<dict>
@@ -92,7 +95,8 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#5B8F7B</string><!--light turquoise-->
+				<!--<string>#5B8F7B</string><!--light turquoise-->
+				<string>#1A1A1A</string>
 			</dict>
 		</dict>
 		<dict>
@@ -142,7 +146,8 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#C0CFCD</string><!--very light turquoise-->
+				<!--<string>#C0CFCD</string><!--very light turquoise-->
+				<string>#1A1A1A</string>
 			</dict>
 		</dict>
 		<dict>
@@ -183,7 +188,8 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#CED1CF</string><!--light grey-->
+				<!--<string>#CED1CF</string><!--light grey-->
+				<string>#1A1A1A</string>
 			</dict>
 		</dict>
 		<dict>
@@ -196,7 +202,8 @@
 				<key>background</key>
 				<string>#82A3BF</string>
 				<key>foreground</key>
-				<string>#CED1CF</string><!--light grey-->
+				<!--<string>#CED1CF</string><!--light grey-->
+				<string>#1A1A1A</string>
 			</dict>
 		</dict>
 		<dict>
@@ -211,7 +218,8 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#CED1CF</string><!--light grey-->
+				<!--<string>#CED1CF</string><!--light grey-->
+				<string>#1A1A1A</string>
 			</dict>
 		</dict>
 		<dict>
