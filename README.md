@@ -13,7 +13,7 @@ A lighter version of Citizen Kane for perfect coding in the evening or times whe
 
 ### Install
 
-Simply search package control for "saulhudson".
+Simply search package control for "saulhudson". I also recommend using Soda Dark Theme to 'skin' Sublime Text.
 
 ### Screen Shots
 
