@@ -10,3 +10,7 @@ Originated as a clone of Tomorrow Night and Zenburn. Essentially this is slightl
 Citizen Bane
 ------------
 A lighter version of Citizen Kane for perfect coding in the evening or times when natural light is at a minimum.
+
+Install
+-------
+Simply search package control for "saulhudson".
